@@ -4,24 +4,24 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
+  - Algorithm: 👂 heard
+  - Syntax: 👂 heard
   - Semantics
   - Abstraction
   - Paradigm
   - Programm
   - Programming paradigm
-  - Programming language
+  - Programming language: 🖐️ used
   - Contract
   - Module
-  - Library
+  - Library: 🖐️ used
   - Package
   - Component
   - Framework
   - Platform
   - Source code
   - Object code
-  - Machine code
+  - Machine code: 👂 heard
   - Microcode
   - Software engineering
   - Decomposition
@@ -34,13 +34,13 @@
 - Syntax and concepts
   - Value
   - Identifier
-  - Variable
-  - Constant
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
   - Scalar
   - Literal
   - Expression
   - Heap
-  - Function
+  - Function: 🖐️ used
   - Procedure
   - Method
   - Class
@@ -59,9 +59,9 @@
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
+  - Camel case: 🖐️ used
+  - Snake case: 🖐️ used
+  - Kebab case: 🖐️ used
   - Trailing commas
   - Return early
   - Fail-fast
@@ -157,21 +157,21 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger: 👂 heard
   - Tracing
   - Garbage collection
   - Refactoring
   - Code review
   - Exception
   - Unittesting
-  - git
-  - Github
+  - git: 🖐️ used
+  - Github: 🖐️ used
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
+  - Magic numbers: 👂 heard
   - Hard code
   - Soft code
   - Cryptic code
@@ -186,7 +186,7 @@
   - Duplicate code
   - Premature optimization
   - Micro-optimization
-  - Nested loops
+  - Nested loops: 👂 heard
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux
-  - Unix
+  - Linux: 👂 heard
+  - Unix: 👂 heard
   - BSD
-  - MacOS u
-  - Windows u
+  - MacOS: 🖐️ used
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards

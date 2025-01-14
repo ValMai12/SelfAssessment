@@ -18,7 +18,7 @@
   - Modules as singletons
   - Contexts and scripts module `node:vm`
   - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Files `package.json`, `package-lock.json`: 👂 heard
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
