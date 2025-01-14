@@ -4,26 +4,26 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm h
-  - Syntax h
+  - Algorithm: 👂 heard
+  - Syntax: 👂 heard
   - Semantics
   - Abstraction
   - Paradigm
   - Programm
   - Programming paradigm
-  - Programming language u
+  - Programming language: 🖐️ used
   - Contract
   - Module
-  - Library u
+  - Library: 🖐️ used
   - Package
   - Component
   - Framework
   - Platform
   - Source code
   - Object code
-  - Machine code h
+  - Machine code: 👂 heard
   - Microcode
-  - Software engineering 
+  - Software engineering
   - Decomposition
   - Control flow
   - Data flow
@@ -34,13 +34,13 @@
 - Syntax and concepts
   - Value
   - Identifier
-  - Variable u
-  - Constant u
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
   - Scalar
   - Literal
   - Expression
   - Heap
-  - Function u
+  - Function: 🖐️ used
   - Procedure
   - Method
   - Class
@@ -59,9 +59,9 @@
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case u
-  - Snake case u
-  - Kebab case u
+  - Camel case: 🖐️ used
+  - Snake case: 🖐️ used
+  - Kebab case: 🖐️ used
   - Trailing commas
   - Return early
   - Fail-fast
@@ -157,21 +157,21 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger h
+  - Debugger: 👂 heard
   - Tracing
   - Garbage collection
   - Refactoring
   - Code review
   - Exception
   - Unittesting
-  - git u
-  - Github u
+  - git: 🖐️ used
+  - Github: 🖐️ used
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers h
+  - Magic numbers: 👂 heard
   - Hard code
   - Soft code
   - Cryptic code
@@ -186,7 +186,7 @@
   - Duplicate code
   - Premature optimization
   - Micro-optimization
-  - Nested loops h
+  - Nested loops: 👂 heard
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
@@ -214,11 +214,11 @@
   - Ring
   - Virtual memory
   - File system
-  - Linux h
-  - Unix h
+  - Linux: 👂 heard
+  - Unix: 👂 heard
   - BSD
-  - MacOS u
-  - Windows u
+  - MacOS: 🖐️ used
+  - Windows: 🖐️ used
   - Real-time OS
   - Embedded OS
 - Standards

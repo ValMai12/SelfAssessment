@@ -1,8 +1,8 @@
 ## JavaScript
 
 - Language
-  - `Object` u
-  - `Function` u
+  - `Object`: 🖐️ used
+  - `Function`: 🖐️ used
   - `Boolean`u
   - `Number`u
   - `BigInt`
@@ -59,11 +59,11 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if` u
+  - `if`: 🖐️ used
   - `while`
   - `do..while`
   - `for`
-  - `for..in` u
+  - `for..in`: 🖐️ used
   - `for..of`
   - `for await`
   - `throw`
@@ -115,8 +115,8 @@
   - Timers
 - Infrastructure
   - V8
-  - Node.js u
-  - npm u
-  - prettier h
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 👂 heard
   - MDN
   - TC39
