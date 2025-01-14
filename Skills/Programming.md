@@ -217,8 +217,8 @@
   - Linux
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS u
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards
